@@ -1,0 +1,8 @@
+[project]
+name = "Laptop-Price-Predictor"
+version = "1.0"
+description = "Laptop price predictor"
+authors = [
+    {name = "Akila", email = "akilaprabath861@gmail.com"}
+]
+requires-python = "3.11"
