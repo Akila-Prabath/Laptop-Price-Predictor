@@ -105,7 +105,7 @@ heroku open
 
 ## 📸 Screenshots
 
-<img width="1920" height="908" alt="Screenshot (262)" src="https://github.com/user-attachments/assets/ebc6c1f1-dee8-4577-997b-fc8bf5d45c3b" />
+<img width="1920" height="886" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/64d8d764-17d4-4028-a955-7bc6b2938ebb" />
 
 ---
 
