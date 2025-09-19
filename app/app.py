@@ -5,7 +5,7 @@ import numpy as np
 app = Flask(__name__)
 
 def prediction(lst):
-    filename = '../models/laptop_model_v1.pkl'
+    filename = 'model/laptop_model_v1.pkl'
     with open(filename, 'rb') as file:
         model = pickle.load(file)
     pred_value = model.predict([lst])
